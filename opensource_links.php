@@ -3,18 +3,17 @@
 
 <html>
 
- 
+
 <head>
 <meta name="revisit-after" content="14 days">
 <meta name="keywords" content="Stewart Weiss, Hunter College, computer science, open source, open source software">
-<meta name="description" content="Stewart Weiss, PHD Courant Institute, Professor Hunter College"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link href="../styles/styles.css" rel="stylesheet" type="text/css">   
+    <link href="../styles/styles.css" rel="stylesheet" type="text/css">
 </head>
 
 
 <body>
-<?php require("../menu.html"); ?>
+
 
 <div id="main_body" style="width:100%">
 
@@ -166,8 +165,6 @@
 </ul>
 </div>
 
-<!-- include navigation bar, footer, and statcounter -->
-<?php include_once('../pagebottom.php'); ?> 
 
 
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
